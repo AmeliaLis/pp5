@@ -1,1 +1,1 @@
-Repository created for university Programming classes.
+Repositiry with programming project
